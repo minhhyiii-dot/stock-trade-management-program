@@ -1,0 +1,7 @@
+position_id,account_id,ticker,quantity,entry_price,stop_loss_pct,take_profit_pct,trailing_stop_pct
+P01,A01,FPT,100,20000,,10,
+P02,A01,HPG,200,20000,,,18
+P03,A02,FPT,100,20000,2.5,,
+P04,A01,VNM,100,20000,,,
+P05,A02,VCB,100,20000,,,
+P06,A02,SSI,200,20000,,,
